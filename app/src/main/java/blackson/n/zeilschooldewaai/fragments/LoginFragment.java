@@ -50,7 +50,7 @@ public class LoginFragment extends BaseFragment implements SuccessListener<Fireb
         final String email = emailEditText.getText().toString().trim();
 
         if (password.isEmpty() || email.isEmpty()) {
-            Toast.makeText(getContext(), "vul alle velden in", Toast.LENGTH_SHORT).show();
+            Toast.makeText(getContext(), R.string.login_error, Toast.LENGTH_SHORT).show();
             return;
         }
 
@@ -65,7 +65,7 @@ public class LoginFragment extends BaseFragment implements SuccessListener<Fireb
         final String email = emailEditText.getText().toString().trim();
 
         if (password.isEmpty() || email.isEmpty()) {
-            Toast.makeText(getContext(), "vul alle velden in", Toast.LENGTH_SHORT).show();
+            Toast.makeText(getContext(), R.string.login_error, Toast.LENGTH_SHORT).show();
             return;
         }
 

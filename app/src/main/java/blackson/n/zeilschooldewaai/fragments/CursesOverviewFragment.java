@@ -71,7 +71,7 @@ public class CursesOverviewFragment extends BaseFragment implements CursesOvervi
                     @Override
                     public void onDateSet(final DatePicker view, final int year, final int month, final int dayOfMonth) {
                         // date has been selected, mow get the new data to update the UI
-                        toolbarManager.setTitle("overzicht " + getMonth(month) + " " + year);
+                        toolbarManager.setTitle(getString(R.string.overview) + getMonth(month) + " " + year);
                         mPresenter.provide(month, year);
                     }
                 }, date.get(Calendar.YEAR), date.get(Calendar.MONTH), date.get(Calendar.DAY_OF_MONTH)).show();

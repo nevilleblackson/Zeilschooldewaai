@@ -3,14 +3,18 @@
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="email">Email:</string>
-    <string name="straatnaam">Straatnaam:</string>
-    <string name="postcode">Postcode:</string>
-    <string name="telefoonummer">Telefoonummer:</string>
-    <string name="maandag_vrijdag">Maandag - Vrijdag:</string>
-    <string name="zaterdag">Zaterdag:</string>
+    <string name="email">Email</string>
+    <string name="straatnaam">Straatnaam</string>
+    <string name="postcode">Postcode</string>
+    <string name="telefoonummer">Telefoonummer</string>
+    <string name="maandag_vrijdag">Maandag - Vrijdag</string>
+    <string name="zaterdag">Zaterdag</string>
     <string name="password">Password</string>
     <string name="naam">naam</string>
     <string name="opbrengsten">opbrengsten</string>
+    <string name="login_error">vul alle velden in</string>
+    <string name="overview">overzicht</string>
+    <string name="zondag">zondag</string>
+    <string name="nationale_feestdagen_gesloten">Nationale feestdagen: gesloten</string>
 
 </resources>
