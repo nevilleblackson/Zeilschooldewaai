@@ -11,11 +11,9 @@ import org.androidannotations.annotations.Bean;
 import org.androidannotations.annotations.EFragment;
 import org.androidannotations.annotations.ViewById;
 
-import java.text.DateFormat;
+import java.text.DateFormatSymbols;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
-import java.util.Date;
-import java.util.List;
 import java.util.TimeZone;
 
 import blackson.n.zeilschooldewaai.R;
@@ -24,8 +22,6 @@ import blackson.n.zeilschooldewaai.fragments.views.CursesOverviewView;
 import blackson.n.zeilschooldewaai.managers.ToolbarManager;
 import blackson.n.zeilschooldewaai.models.SoortenCursus;
 import blackson.n.zeilschooldewaai.presenters.CursesOverviewPresenter;
-
-import java.text.DateFormatSymbols;
 
 
 @EFragment(R.layout.fragment_overview_cursis)

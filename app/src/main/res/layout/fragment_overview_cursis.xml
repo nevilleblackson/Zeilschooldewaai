@@ -15,7 +15,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="naam"
+            android:text="@string/naam"
             android:textColor="@color/black"
             android:textSize="20sp" />
 
@@ -23,7 +23,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="end"
-            android:text="opbrengsten"
+            android:text="@string/opbrengsten"
             android:textColor="@color/black"
             android:textSize="20sp" />
     </FrameLayout>
