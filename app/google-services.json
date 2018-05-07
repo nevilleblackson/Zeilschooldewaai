@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "783611685811",
+    "firebase_url": "https://zeilschool-de-waai-e6bd9.firebaseio.com",
+    "project_id": "zeilschool-de-waai-e6bd9",
+    "storage_bucket": "zeilschool-de-waai-e6bd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783611685811:android:c1c82ca0c468a652",
+        "android_client_info": {
+          "package_name": "blackson.n.zeilschooldewaai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783611685811-dj00eba23m7ddud0af5i47gbt3n88bk3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "blackson.n.zeilschooldewaai",
+            "certificate_hash": "251496a4e4f9791a74259fc5b6b528bd3a3fd390"
+          }
+        },
+        {
+          "client_id": "783611685811-9att21tu8sah5jc505bjvlsshco698en.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj_3S5Q1Md8X7d8VXdjO7eRfFqVmFbgM4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783611685811-9att21tu8sah5jc505bjvlsshco698en.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

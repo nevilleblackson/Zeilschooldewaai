@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Zeilschool de waai</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="email">Email:</string>
+    <string name="straatnaam">Straatnaam:</string>
+    <string name="postcode">Postcode:</string>
+    <string name="telefoonummer">Telefoonummer:</string>
+    <string name="maandag_vrijdag">Maandag - Vrijdag:</string>
+    <string name="zaterdag">Zaterdag:</string>
+
+</resources>
